@@ -2,6 +2,10 @@
 *.sublime-workspace
 *.sublime-project
 
+# Ignore IDEA files
+*.iml
+.idea
+
 # Ignore vim files
 *.swp
 *.swn
